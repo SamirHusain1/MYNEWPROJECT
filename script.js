@@ -1,1 +1,2 @@
-// today i create new feature in this app
+let name = "sameer husain";
+console.log(name);
